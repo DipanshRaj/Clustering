@@ -1,2 +1,1 @@
-# Clustering
-Using K-means &amp; hierarchical clustring for customer segmentation
+Used K-means & hierarchical clustring for customer segmentation
